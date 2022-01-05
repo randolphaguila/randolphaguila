@@ -1,6 +1,8 @@
-### Hi there 👋
+# BEM VINDO!!! 👋
 
 <!--
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
 **randolphaguila/randolphaguila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
